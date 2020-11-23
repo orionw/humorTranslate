@@ -1,0 +1,6 @@
+env/
+*__pycache__*
+*cached_*
+*checkpoint*
+*.pt
+*.bin
